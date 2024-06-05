@@ -6,6 +6,8 @@ description: Robert C. Martin's naming conventions from the book, "Clean Code, A
 
 ## Meaningful Names
 
+Robert C. Martin's naming conventions from the book, "Clean Code, A Handbook of Agile Software Craftsmanship."
+
 1. **Use Intention-Revealing Names:**
 
    - Names should clearly communicate the intent of the variable, function, or class.
